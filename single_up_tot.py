@@ -1,14 +1,14 @@
 import streamlit as st
 import streamlit_book as stb
-from  PIL import Image, ImageEnhance
+#from  PIL import Image, ImageEnhance
 import pandas as pd
 
 #Sidebar con logo Chiesi
-c0, c1, c2= st.columns([2,3,2])
+#c0, c1, c2= st.columns([2,3,2])
 
-with c1:
-    logo = Image.open(r'C:\Users\VeronicaCipriani\Desktop\KASANOVA\loader_Chiesi\chiesi_logo.jpg')
-    st.sidebar.image(logo,  width=150)
+#with c1:
+#    logo = Image.open(r'C:\Users\VeronicaCipriani\Desktop\KASANOVA\loader_Chiesi\chiesi_logo.jpg')
+#    st.sidebar.image(logo,  width=150)
 
 st.sidebar.markdown("### App di caricamento dati")
 st.sidebar.markdown("Identificare il dataset di input che si vuole caricare, e procedere con l'upload")
