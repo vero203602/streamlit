@@ -73,3 +73,4 @@ st.write(' ')
 st.write('Numero di attributi:')
 n_col = shows.shape[1]
 st.write(n_col)
+
