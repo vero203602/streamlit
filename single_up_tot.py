@@ -10,7 +10,7 @@ st.sidebar.markdown("Identificare il dataset di input che si vuole caricare, e p
 
 
 #Titolo e struttura
-st.title("Ciao Mic, primo step in Project 2 Product")
+st.title("Caricamento")
 
 
 #scelgo il tipo di file per il caricamento
