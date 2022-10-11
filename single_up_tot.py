@@ -56,7 +56,7 @@ with c4:
     else:
         st.info(
             f"""
-                👆 Seleiona qui il file. 
+                👆 Seleziona qui il file. 
                 """
         )
 
